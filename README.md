@@ -26,5 +26,6 @@ I made it as a way to challenge myself after V1!
 | 50 keycaps | 1 | AliExpress | $7.49 | $7.49 | [Link](https://www.aliexpress.com/item/1005008827240220.html) |
 | 3D printed case | 1 | A friend | $5.00 | $5.00 ||
 | PCB | 1 | JLCPCB | $2.10 | $2.10 | [Link](https://cart.jlcpcb.com/shopcart/cart/) |
+| Diodes | 50 | AliExpress | $1.72 | $1.72 | [Link]([https://cart.jlcpcb.com/shopcart/cart/](https://www.aliexpress.com/item/1005008818185494.html?spm=a2g0o.cart.0.0.37eb38daSEHkS9&mp=1)) |
 | Estimated total shipping | 1 | | | $12.69 | |
 | **Total** | | | | **$58.90** | |
